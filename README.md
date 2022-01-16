@@ -1,2 +1,2 @@
 # TheCodingHub
-This my practice website created using bootstrap
+This is my practice website created using bootstrap
